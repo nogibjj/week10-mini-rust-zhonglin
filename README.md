@@ -1,5 +1,5 @@
 # Zhonglin Wang - Rust mini project-week7
-This project is generating a random fruit
+This project is generating a message generator that gives a description of the most luxury perfume.
 
 ## Install Rust on Terminal
 1. Type: `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
