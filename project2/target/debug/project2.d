@@ -1,1 +1,1 @@
-/workspaces/ZhonglinWang-week7-rust/project2/target/debug/project2: /workspaces/ZhonglinWang-week7-rust/project2/src/main.rs
+/workspaces/week10-mini-rust-zhonglin/project2/target/debug/project2: /workspaces/week10-mini-rust-zhonglin/project2/src/main.rs
