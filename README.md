@@ -1,4 +1,4 @@
-# Zhonglin Wang - Rust mini project-week7
+# Zhonglin Wang - Rust mini project-week10
 This project is generating a message generator that gives a description of the most luxury perfume.
 
 ## Install Rust on Terminal
